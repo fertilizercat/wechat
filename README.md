@@ -26,3 +26,5 @@
  4. 配置日志等级
  
     $config['log_threshold'] = 4;   
+    $config['log_path'] = 'logs/'; 日志路径
+    
