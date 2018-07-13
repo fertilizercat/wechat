@@ -75,8 +75,6 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'www.sghaotong.cn,8085',
-	'username' => 'php',
 	'password' => 'Horoad316116',
 	'hostname' => '192.168.1.87',
 	'username' => 'sa',
